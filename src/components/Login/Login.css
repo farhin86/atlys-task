@@ -1,0 +1,67 @@
+.login-wrapper {
+    width: 414px;
+    max-width: 80vw;
+    border-radius: 8px;
+    border: 2px solid #969696;
+    background-color: #27292D;
+text-align: center;
+    text-align: center;
+    padding: 35px 25px;
+}
+
+.welcome {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    color: #6B6C70;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.78px;
+    color: #FFFFFF;
+    margin: 8px 0 45px;   
+}
+
+.login-input-section {
+    text-align: left;
+}
+
+.password-wrapper {
+    position: relative;
+}
+
+.forgot-password {
+    font-size: 12px;
+    font-weight: 500;
+    color: #C5C7CA;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.register {
+    display: flex;
+    margin-top: 20px;
+}
+
+.register-txt, .register-btn {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    color: #7F8084;  
+}
+
+.register-btn {
+    margin-left: 5px;
+    color: #C5C7CA;
+    cursor: pointer;
+    padding: 0;
+    background: none;
+}
+
+.login-button {
+    width: 100%;
+}

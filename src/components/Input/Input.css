@@ -1,0 +1,36 @@
+.label {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    color: #C5C7CA;
+    margin-bottom: 5px;
+}
+
+.input {
+    border: 1.5px solid #35373B;
+    width: 100%;
+    height: 43px;
+    border-radius: 4px;
+    background-color: #27292D;
+}
+
+input,
+input::placeholder {
+    padding-left: 5px;
+    color: #7F8084;
+    font-size: 16px;
+}
+
+.input-wrapper {
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.eye {
+    position: absolute;
+    top: 16px;
+    right: 15px;
+    cursor: pointer;
+}
