@@ -1,4 +1,4 @@
-# Atlys task
+# Interview task
 
 To run the app locally
 
